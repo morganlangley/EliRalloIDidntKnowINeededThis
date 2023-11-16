@@ -1,0 +1,35 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+body {
+    background-color: #29201F;
+}
+.podcast{
+    color: #29201F;
+   align-self: center;
+   padding-left: 16rem;
+   padding-right: 5rem;
+   max-width: 80rem;
+    flex-flow: column-reverse;
+}
+.spotify{
+    width: 60%;
+    padding-left: 37%; 
+}
+.lead {
+    color: antiquewhite;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+h2{
+    color: antiquewhite;
+    text-align: center;
+}
+.about{
+    padding-left: 9%;
+}
+.buyhere{
+    text-align: center;
+}
+.ecom{
+padding-left: 40%;
+}
+
